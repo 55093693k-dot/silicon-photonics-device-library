@@ -1,0 +1,7 @@
+port,power_Sx,Ex_frac,Ey_frac
+dims,x,y,z,f,,
+wg1,1.007504e+04,0.9392,0.0608
+wg2,7.997809e+02,0.9158,0.0842
+wg1+wg2,1.087482e+04,,
+frac_wg1,0.9265,,
+frac_wg2,0.0735,,
