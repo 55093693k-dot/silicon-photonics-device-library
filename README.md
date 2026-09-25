@@ -8,6 +8,10 @@ MMI、延迟线、Euler 弯曲，以及一条完整的**偏振分束旋转器（
 
 > 作者：**Chan King Ho** ｜ 数据时间：2026-08 ~ 2026-09
 > 工具：Ansys Lumerical 2025 R1（MODE / FDTD，本地）+ Tidy3D（云端 3D FDTD / EME）
+>
+> **姊妹仓库**：本库偏振旋转器（PSR）那一条链的**工程报告与可复现 notebook** 在
+> [psr-bilevel-eme-scope](https://github.com/55093693k-dot/psr-bilevel-eme-scope)；
+> 出图与文献小工具在 [photonics-fig-tools](https://github.com/55093693k-dot/photonics-fig-tools)。
 
 ---
 
